@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=MarvinKlein1508&project=SignaturePad&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # SignaturePad
 A simple to use blazor component to draw a signature. It supports both mouse and touch inputs and works on Blazor Server and Blazor WebAssembly.
 
